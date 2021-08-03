@@ -1,1 +1,0 @@
-<img src="./high-level-view.png" width="100%"/>
